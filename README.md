@@ -12,6 +12,8 @@ ohne Konto, Werbung und Tracking. Der Quellcode liegt nicht in diesem Repo.
 | Linux, alle Distributionen | `quirl-linux-x86_64.AppImage` |
 | Linux, Debian/Ubuntu/Mint | `quirl-linux-amd64.deb` |
 | Linux, Fedora/openSUSE | `quirl-linux-x86_64.rpm` |
+| Linux, Flatpak | `quirl-linux.flatpak` |
+| Linux, Snap | `quirl-linux-amd64.snap` |
 
 Die neueste Version steht immer unter
 [Releases → Latest](https://github.com/bdgraue/quirl-releases/releases/latest).
