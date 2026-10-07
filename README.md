@@ -17,7 +17,7 @@ ohne Konto, Werbung und Tracking. Der Quellcode liegt nicht in diesem Repo.
 
 Die neueste Version steht immer unter
 [Releases → Latest](https://github.com/bdgraue/quirl-releases/releases/latest).
-Android gibt es über Google Play.
+Android gibt es über [Google Play](https://play.google.com/store/apps/details?id=com.bdgraue.quirl).
 
 ---
 
@@ -31,6 +31,6 @@ this repository.
 
 The latest version is always under
 [Releases → Latest](https://github.com/bdgraue/quirl-releases/releases/latest).
-Android is available on Google Play.
+Android is available on [Google Play](https://play.google.com/store/apps/details?id=com.bdgraue.quirl).
 
 License: MIT (see `LICENSE`).
